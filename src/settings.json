@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Experience the Ultimate Blend of Comfort and Performance with Our Innovative Cars",
+        "title": "Effortlessly Cruise Around in Style"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Experience the Ultimate Blend of Comfort and Performance with Our Innovative Cars",
+        "title": "Effortlessly Cruise Around in Style"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Experience the Ultimate Blend of Comfort and Performance with Our Innovative Cars",
+        "title": "Effortlessly Cruise Around in Style"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Experience the Ultimate Blend of Comfort and Performance with Our Innovative Cars",
+        "title": "Effortlessly Cruise Around in Style"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Experience the Ultimate Blend of Comfort and Performance with Our Innovative Cars",
+        "title": "Effortlessly Cruise Around in Style"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Experience the Ultimate Blend of Comfort and Performance with Our Innovative Cars",
+        "title": "Effortlessly Cruise Around in Style"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Experience the Ultimate Blend of Comfort and Performance with Our Innovative Cars",
+        "title": "Effortlessly Cruise Around in Style"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Experience the Ultimate Blend of Comfort and Performance with Our Innovative Cars",
+        "title": "Effortlessly Cruise Around in Style"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Experience the Ultimate Blend of Comfort and Performance with Our Innovative Cars",
+        "title": "Effortlessly Cruise Around in Style"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Effortlessly Cruise Around in Style",
+  "subtitle": "Experience the Ultimate Blend of Comfort and Performance with Our Innovative Cars"
+}
